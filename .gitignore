@@ -1,0 +1,4 @@
+/target
+*.mzML
+*.raw
+*.ipynb_checkpoints
